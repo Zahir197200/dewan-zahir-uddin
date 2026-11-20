@@ -1,0 +1,8 @@
+{
+  "name": "প্রবাহ স্টুডিও — প্রফেশনাল বিজনেস ল্যান্ডিং ওয়েবসাইট",
+  "description": "আধুনিক ওয়েব ডিজাইন, ব্র্যান্ড স্ট্র্যাটেজি এবং ডিজিটাল গ্রোথ সলিউশনের জন্য প্রফেশনাল বাংলা ল্যান্ডিং ওয়েবসাইট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
